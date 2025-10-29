@@ -106,3 +106,6 @@ This repository is released under the BSD 3-Clause License. See `LICENSE` for de
 ## Contact / support
 
 If you find issues or need help, open an issue in the repository or contact the course instructor.
+
+## mybinder launch:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB2025/HEAD?urlpath=%2Fdoc%2Ftree%2FCSB2025_practica.ipynb)

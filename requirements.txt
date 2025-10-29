@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+ginsim 
+biolqm 
+maboss
+colomoto_jupyter
+matplotlib
+os
