@@ -1,4 +1,4 @@
-# CSB2025 — Practical Material for Computational Systems Biology (CSB 2025)
+# CSB2025 — Practical Material for the Computational Systems Biology course, Fall 2025
 
 This repository contains the practical material for the Computational Systems Biology (CSB 2025) course. It includes a Jupyter notebook used in the hands-on sessions, example models in GINsim format, and setup instructions to reproduce the analyses.
 
@@ -107,5 +107,5 @@ This repository is released under the BSD 3-Clause License. See `LICENSE` for de
 
 If you find issues or need help, open an issue in the repository or contact the course instructor.
 
-## mybinder launch:
+## Launch this repo in a binder server
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB2025/HEAD?urlpath=%2Fdoc%2Ftree%2FCSB2025_practica.ipynb)
