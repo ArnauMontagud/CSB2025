@@ -6,3 +6,4 @@ colomoto_jupyter
 matplotlib
 ginsim
 maboss
+ipylab
