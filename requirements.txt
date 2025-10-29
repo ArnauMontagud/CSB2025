@@ -4,6 +4,8 @@ seaborn
 colomoto-docker
 colomoto_jupyter
 matplotlib
-ginsim
-maboss
 ipylab
+ginsim-python 
+ginsim
+pymaboss 
+maboss
