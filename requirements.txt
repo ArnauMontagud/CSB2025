@@ -1,9 +1,9 @@
 numpy
 pandas
 seaborn
-ginsim 
-biolqm 
-maboss
+colomoto-docker
 colomoto_jupyter
 matplotlib
 os
+ginsim
+maboss
